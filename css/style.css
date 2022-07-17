@@ -1,0 +1,18 @@
+*
+{
+    font-family: arial;
+}
+header h2
+{
+    color: #AAA;
+}
+footer p
+{
+    color: #AAA;
+}
+.visit
+{
+    background-image: linear-gradient(#EEE,#FFF);
+    margin: 10px 0;
+    padding: 20px;
+}
